@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Suprimtamang
 - 👀 I’m interested in learning how to code ...
-- 🌱 I’m currently learning ...flutter
-- 💞️ I’m looking to collaborate on ...my coding skill 
+- 🌱 I’m currently learning ...java and app development using flutter framework and dart
 - 📫 How to reach me ...through insta suprim__01
 
 <!---
