@@ -1,4 +1,5 @@
-<h1 align="center"><span style ="color:blue;">👨🏻‍💻Tech Enthusiast </span></h1>
+<<h1 align="center"><span style="color: blue;">👨🏻‍💻Tech Enthusiast</span></h1>
+
 
 
 - 👋 Hi, I’m @Suprimtamang
