@@ -1,17 +1,62 @@
-<<h1 align="center"><span style="color: blue;">👨🏻‍💻Tech Enthusiast</span></h1>
+<h1 align="center">Hi there, I'm Suprim Tamang 👋</h1>
+<h3 align="center">Computer Science & Engineering @ NOVA FCT | Software & Systems Developer</h3>
 
+<p align="center">
+  Building practical web platforms, exploring low-level systems & cloud security, and solving complex technical problems.
+</p>
 
+---
 
-- 👋 Hi, I’m @Suprimtamang
-- 👀 I’m interested in learning how to code ...
-- 🌱 I’m currently learning ...java and app development using flutter framework and dart
-- 📫 How to reach me ...through insta suprim__01
+### 🚀 About Me
 
-<!---
-Suprimtamang/Suprimtamang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 **Education:** Studying Computer Science and Engineering at **NOVA School of Science and Technology (NOVA FCT)** in Lisbon, Portugal.
+- 🛠️ **What I'm Building:** Creator of **Simplify** — a dynamic web platform designed to streamline university admissions and administrative procedures with step-by-step guidance.
+- 🔐 **Focus Areas:** Full-stack web development, low-level systems programming, cloud security & identity monitoring, and enterprise technical debugging.
+- 🌱 **Currently Exploring:** Cloud security architectures, automated vulnerability remediation, and scalable web applications.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+### 💻 Tech Stack & Tools
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,ocaml,dart,bash,postgres" alt="Languages" />
+</p>
+
+**Frontend, Frameworks & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,docker,cloudflare,git,linux" alt="Frameworks and Tools" />
+</p>
+
+---
+
+### 📌 Featured Highlights
+
+- 🌐 **Simplify:** Built and pitched a community-driven web platform helping students navigate complex academic and administrative workflows.
+- 🛡️ **Cloud & Security Engineering:** Developed prototypes for identity/access monitoring and automated security analysis.
+- ⚡ **Low-Code & UI Engineering:** Rapid application prototyping with Genio, React, Tailwind CSS, and Flutter.
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/suprim__01" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suprimtamang&show_icons=true&theme=tokyonight&hide_border=true" alt="Suprim's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprimtamang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
