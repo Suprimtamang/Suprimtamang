@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Suprim Tamang 👋</h1>
-<h3 align="center">Computer Science & Engineering @ NOVA FCT | Software & Systems Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Suprim+Tamang+%F0%9F%91%8B" alt="Hi there, I'm Suprim Tamang 👋" />
+</p>
+<h3 align="center">CSE Student @ NOVA FCT | Software & Systems Developer</h3>
 
 <p align="center">
   Building practical web platforms, exploring low-level systems & cloud security, and solving complex technical problems.
